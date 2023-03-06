@@ -1,9 +1,17 @@
 import "./App.css";
+import logo from "./logo.png";
+import Dictionary from "./Dictionary";
 
 export default function App() {
   return (
     <div className="App">
-      <header className="App-header">Hello</header>
+      <div className="container">
+        <header className="App-header">
+          <img src={logo} alt="logo" className="App-logo img-fluid" />
+        </header>
+        <Dictionary />
+        <footer className="App-footer">Open-source code by Laura Petrie</footer>
+      </div>
     </div>
   );
 }

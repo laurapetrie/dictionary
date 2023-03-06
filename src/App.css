@@ -1,0 +1,17 @@
+.App-header {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.App-logo {
+  display: block;
+  max-width: 250px;
+  margin: 0 auto;
+  border: 5px double #f9a826;
+  border-radius: 50%;
+}
+
+.App-footer {
+  margin: 30px 0;
+  text-align: center;
+}
