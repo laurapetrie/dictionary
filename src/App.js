@@ -10,7 +10,16 @@ export default function App() {
           <img src={logo} alt="logo" className="App-logo img-fluid" />
         </header>
         <Dictionary />
-        <footer className="App-footer">Open-source code by Laura Petrie</footer>
+        <footer className="App-footer">
+          Open-source code by{" "}
+          <a
+            href="https://github.com/laurapetrie/dictionary"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Laura Petrie
+          </a>
+        </footer>
       </div>
     </div>
   );
