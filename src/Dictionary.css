@@ -2,3 +2,8 @@
   text-align: center;
   margin-top: 30px;
 }
+
+.search-form {
+  display: block;
+  margin: 30px auto;
+}
