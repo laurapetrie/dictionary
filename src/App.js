@@ -11,13 +11,13 @@ export default function App() {
         </header>
         <Dictionary defaultKeyword="dictionary" />
         <footer className="App-footer">
-          Open-source code by{" "}
+          Coded by Laura Petrie. Open source code available on{" "}
           <a
             href="https://github.com/laurapetrie/dictionary"
             target="_blank"
             rel="noreferrer"
           >
-            Laura Petrie
+            github
           </a>
         </footer>
       </div>
