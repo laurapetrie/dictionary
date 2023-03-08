@@ -1,9 +1,26 @@
-.main-heading {
+.Dictionary section {
+  background-color: #fff;
+  padding: 30px;
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px,
+    rgba(17, 17, 26, 0.05) 0px 8px 32px;
+  margin: 35px 0px;
+  border-radius: 4px;
+}
+
+.Dictionary input {
+  display: block;
+  color: #333;
+  padding: 6px 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.Dictionary .main-heading {
   text-align: center;
   margin-top: 30px;
 }
 
-.search-form {
-  display: block;
-  margin: 30px auto;
+.Dictionary .question {
+  font-size: 18px;
 }
