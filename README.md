@@ -9,7 +9,7 @@ Project link: https://laurapetrie-react-dictionary.netlify.app/
 
 ## Features
 
-- Searching for a word will display the phonetic spelling, parts of speech with examples of how the word is used, synonyms and a grid of 9 images related to the word.
+- Searching for a word will display the phonetic spelling, parts of speech - with examples of how the word is used, synonyms and a grid of 9 images related to the word.
 
 ## Contributing
 
